@@ -1,0 +1,12 @@
+{
+  "name": "claude-demo-marketplace",
+  "description": "Sample marketplace repo to test Claude plugins",
+  "owner": {
+    "name": "Philipp Stracker"
+  },
+  "plugins": [{
+    "name": "demo",
+    "source": "./plugins/demo",
+    "description": "Skill loading demo"
+  }]
+}
